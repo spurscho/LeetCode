@@ -13,3 +13,6 @@ https://gist.github.com/spurscho/ba3f32e42f0e43aae04c81a2d1c19182
 
 7. Reverse Integer
 https://gist.github.com/spurscho/df557b8d6f7552e174fd13ee2f271d2a
+
+8. Palindrome Number
+https://gist.github.com/spurscho/b02ea822e33b68b7e2d20b7191391a3d
