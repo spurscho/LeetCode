@@ -16,3 +16,6 @@ https://gist.github.com/spurscho/df557b8d6f7552e174fd13ee2f271d2a
 
 8. Palindrome Number
 https://gist.github.com/spurscho/b02ea822e33b68b7e2d20b7191391a3d
+
+9. String To Int (atoi)
+https://gist.github.com/spurscho/fdc80d638ca2fc52de66c9fdf3bbb4a7
