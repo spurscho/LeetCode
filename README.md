@@ -23,3 +23,6 @@ https://gist.github.com/spurscho/fdc80d638ca2fc52de66c9fdf3bbb4a7
 
 13. Roman to Integer
 https://gist.github.com/spurscho/045ea8a9a78df16ec97345c0471141ab
+
+12. Integer to Roman
+https://gist.github.com/spurscho/2b718aafc171c8bb4056a2d01e3dddb9
