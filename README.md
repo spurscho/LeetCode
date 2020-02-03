@@ -66,6 +66,11 @@ https://gist.github.com/spurscho/596bac7b69f75e67c57670af45796847
 28. Implement strStr()
 https://gist.github.com/spurscho/8fb74ce8d936e3bc4c22752252d8ebe3
 
+[36] Valid Sudoku
+https://gist.github.com/spurscho/6488f12bf5ccbf4da208ea3de323a98a
+
+[38] Count And Say
+https://gist.github.com/spurscho/8d9421a193fbbd28dd6a8ed50e07ff96
 
 
 
